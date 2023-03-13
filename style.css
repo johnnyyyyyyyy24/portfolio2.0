@@ -1,0 +1,18 @@
+img {
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+} 
+li a
+{
+    text-decoration: none;
+    padding: 6px 15px;
+    color: #fff;
+    border-radius: 20px;
+}
+li a:hover,
+li a.active
+{
+    background: black;
+    
+}
